@@ -1,10 +1,14 @@
 @font-face {
     font-family: editorial;
-    src: url(editorial.ttf);
+    src: url(/editorial.ttf);
 }
 @font-face {
     font-family: domain;
-    src: url(domain.ttf);
+    src: url(/domain.ttf);
+}
+@font-face {
+    font-family: canopee;
+    src: url(/canopee.ttf);
 }
 *{
     margin: 0;
